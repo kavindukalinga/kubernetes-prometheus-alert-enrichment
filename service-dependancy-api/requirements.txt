@@ -1,0 +1,4 @@
+prometheus-api-client
+pandas
+flask
+flask_cors
